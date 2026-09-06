@@ -1,5 +1,14 @@
-# 💫 About Me:
-I'm currently at Techmahindra<br>I'm currently learning aws<br>As a Software Engineer IT professional with 2 years of experience in Windows Administration, Infrastructure Support, and Automation. Hands-on experience in Nutanix VM management, Active Directory, Tanium patching, certificate renewals, and Ansible automation.<br>Currently focusing on DevOps and Cloud technologies including Linux, CI/CD, Docker, Kubernetes, AWS and Azure. Passionate about automation, infrastructure management, and continuous learning.<br>My favorite Grafana dashboard color is green — I rarely see it.
+## 👋 About Me
+
+I'm a Software Engineer / IT professional currently at **Tech Mahindra**, with 2.5 years of experience in Windows Administration, Infrastructure Support, and Automation.
+
+- 🔧 Hands-on experience with **Nutanix VM management**, **Active Directory**, **Tanium patching**, certificate renewals, and **Ansible automation**
+- ☁️ Currently focused on **DevOps & Cloud technologies** — Linux, CI/CD, Docker, Kubernetes, AWS, and Azure
+- 📚 Currently learning **AWS**
+- ⚙️ Passionate about automation, infrastructure management, and continuous learning
+- 📊 Fun fact: I got into DevOps because I kept automating the same manual server tasks — Nutanix, AD, patching — until Ansible just became my default tool. 😄
+
+🔭 Always exploring ways to bridge traditional infrastructure with modern DevOps practices.
 
 
 ## 🌐 Socials:
